@@ -1,0 +1,88 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogX" value="2727" />
+    <option name="newTranslationDialogY" value="450" />
+    <histories>
+      <item value="Identical" />
+      <item value="json parsed fail" />
+      <item value="divisor" />
+      <item value="implicit" />
+      <item value="BEGIN Android-changed: Use a static BasicLruCache mapping Enum class -&gt; Enum instance array. This change was made to fix a performance regression. See b4087759 and b109791362 for more background information." />
+      <item value="Uses this string as a format string and returns a string obtained by substituting the specified arguments, using the default locale." />
+      <item value="not" />
+      <item value="expanded" />
+      <item value="settling" />
+      <item value="Sphere" />
+      <item value="toSphere" />
+      <item value="parse" />
+      <item value="collapsed" />
+      <item value="solid" />
+      <item value="deploy" />
+      <item value="Horizontal" />
+      <item value="Day Night" />
+      <item value="Nested" />
+      <item value="&lt;!-- Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content. --&gt;" />
+      <item value="horizontal" />
+      <item value="Concurrent Modification Exception" />
+      <item value="CUSTOMIZED" />
+      <item value="Boolean" />
+      <item value="&lt;!-- The color applied to framework control highlights (ex. ripples, list selectors). --&gt;" />
+      <item value="underneath" />
+      <item value="NOTE: Explicitly set clipping rect. This is required on Gingerbread." />
+      <item value="@param measureSpec Constraints imposed by the parent." />
+      <item value="Tint" />
+      <item value="Indeterminate" />
+      <item value="interpolator" />
+      <item value="indeterminate" />
+      <item value="Alert Dialog" />
+      <item value="App Compat" />
+      <item value="Emitter" />
+      <item value="Pregnant" />
+      <item value="&lt;!-- ~ Copyright (c) 2021. Drakeet Xu ~ ~ Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); ~ you may not use this file except in compliance with the License. ~ You may obtain a copy of the License at ~ ~ http:www.apache.orglicensesLICENSE-2.0 ~ ~ Unless required by applicable law or agreed to in writing, software ~ distributed under the License is distributed on an &quot;AS IS&quot; BASIS, ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. ~ See the License for the specific language governing permissions and ~ limitations under the License. --&gt;" />
+      <item value="compliance" />
+      <item value="arashivision" />
+      <item value="Stage" />
+      <item value="Date" />
+      <item value="Valide" />
+      <item value="Indicator" />
+      <item value="Draw traversal performs several drawing steps which must be executed in the appropriate order: 1. Draw the background 2. If necessary, save the canvas' layers to prepare for fading 3. Draw view's content 4. Draw children 5. If necessary, draw the fading edges and restore layers 6. Draw decorations (scrollbars for instance) 7. If necessary, draw the default focus highlight" />
+      <item value="integer" />
+      <item value="HORIZONTAL" />
+      <item value="parent" />
+      <item value="Bridge" />
+      <item value="checked" />
+      <item value="OPAQUE" />
+      <item value="be" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="206" />
+        <entry key="ENGLISH" value="207" />
+        <entry key="ALBANIAN" value="1" />
+        <entry key="DANISH" value="1" />
+        <entry key="GERMAN" value="1" />
+        <entry key="FRENCH" value="1" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="JAPANESE" value="3" />
+        <entry key="ITALIAN" value="1" />
+        <entry key="INDONESIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1620267339384" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="phoneticFontFamily" value="Microsoft YaHei UI" />
+    <option name="primaryFontFamily" value="Microsoft YaHei UI" />
+    <option name="showWordsOnStartup" value="true" />
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
