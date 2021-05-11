@@ -5,6 +5,18 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Using individually bound Sockets created by Network.getSocketFactory().createSocket() and performing network-specific host name resolutions via {@link NetworkgetAllByName Network.getAllByName} is preferred to calling {@code bindProcessToNetwork}." />
+      <item value="performing network-specific host name resolutions via {@link NetworkgetAllByName Network.getAllByName} is preferred to calling {@code bindProcessToNetwork}." />
+      <item value="is preferred to" />
+      <item value="Note that if {@code network} ever disconnects, all Sockets created in this way will cease to work and all host name resolutions will fail." />
+      <item value="This is by design" />
+      <item value="accidentally" />
+      <item value="This is by design so an application doesn't accidentally use Sockets it thinks are still bound to a particular {@link Network}." />
+      <item value="particular" />
+      <item value="host name resolutions" />
+      <item value="resolutions" />
+      <item value="cease" />
+      <item value="explicitly" />
       <item value="complete Action" />
       <item value="Process" />
       <item value="Identical" />
@@ -43,18 +55,6 @@
       <item value="Emitter" />
       <item value="Pregnant" />
       <item value="&lt;!-- ~ Copyright (c) 2021. Drakeet Xu ~ ~ Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); ~ you may not use this file except in compliance with the License. ~ You may obtain a copy of the License at ~ ~ http:www.apache.orglicensesLICENSE-2.0 ~ ~ Unless required by applicable law or agreed to in writing, software ~ distributed under the License is distributed on an &quot;AS IS&quot; BASIS, ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. ~ See the License for the specific language governing permissions and ~ limitations under the License. --&gt;" />
-      <item value="compliance" />
-      <item value="arashivision" />
-      <item value="Stage" />
-      <item value="Date" />
-      <item value="Valide" />
-      <item value="Indicator" />
-      <item value="Draw traversal performs several drawing steps which must be executed in the appropriate order: 1. Draw the background 2. If necessary, save the canvas' layers to prepare for fading 3. Draw view's content 4. Draw children 5. If necessary, draw the fading edges and restore layers 6. Draw decorations (scrollbars for instance) 7. If necessary, draw the default focus highlight" />
-      <item value="integer" />
-      <item value="HORIZONTAL" />
-      <item value="parent" />
-      <item value="Bridge" />
-      <item value="checked" />
     </histories>
     <option name="languageScores">
       <map>
