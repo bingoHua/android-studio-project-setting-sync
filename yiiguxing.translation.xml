@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="complete Action" />
+      <item value="Process" />
       <item value="Identical" />
       <item value="json parsed fail" />
       <item value="divisor" />
@@ -53,8 +55,6 @@
       <item value="parent" />
       <item value="Bridge" />
       <item value="checked" />
-      <item value="OPAQUE" />
-      <item value="be" />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620267339384" />
+    <option name="lastTrimTime" value="1620700722206" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
