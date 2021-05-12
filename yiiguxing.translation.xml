@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Indeterminate" />
+      <item value="indeterminate" />
       <item value="consider" />
       <item value="Using individually bound Sockets created by Network.getSocketFactory().createSocket() and performing network-specific host name resolutions via {@link NetworkgetAllByName Network.getAllByName} is preferred to calling {@code bindProcessToNetwork}." />
       <item value="performing network-specific host name resolutions via {@link NetworkgetAllByName Network.getAllByName} is preferred to calling {@code bindProcessToNetwork}." />
@@ -48,9 +50,7 @@
       <item value="NOTE: Explicitly set clipping rect. This is required on Gingerbread." />
       <item value="@param measureSpec Constraints imposed by the parent." />
       <item value="Tint" />
-      <item value="Indeterminate" />
       <item value="interpolator" />
-      <item value="indeterminate" />
       <item value="Alert Dialog" />
       <item value="App Compat" />
       <item value="Emitter" />
