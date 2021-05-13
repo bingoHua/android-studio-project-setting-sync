@@ -1,13 +1,88 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogX" value="2727" />
+    <option name="newTranslationDialogY" value="450" />
     <histories>
-      <item value="Ultra" />
-      <item value="Proceed in 3 steps: 1. If fewer than corePoolSize threads are running, try to start a new thread with the given command as its first task. The call to addWorker atomically checks runState and workerCount, and so prevents false alarms that would add threads when it shouldn't, by returning false. 2. If a task can be successfully queued, then we still need to double-check whether we should have added a thread (because existing ones died since last checking) or that the pool shut down since entry into this method. So we recheck state and if necessary roll back the enqueuing if stopped, or start a new thread if there are none. 3. If we cannot queue task, then we try to add a new thread. If it fails, we know we are shut down or saturated and so reject the task." />
-      <item value="Idle" />
-      <item value="capacity" />
+      <item value="PRIMARY" />
+      <item value="Since we draw translated, the drawable's bounds that it signals for invalidation won't be the actual bounds we want invalidated, so just invalidate this whole view." />
+      <item value="Indeterminate" />
+      <item value="indeterminate" />
+      <item value="consider" />
+      <item value="Using individually bound Sockets created by Network.getSocketFactory().createSocket() and performing network-specific host name resolutions via {@link NetworkgetAllByName Network.getAllByName} is preferred to calling {@code bindProcessToNetwork}." />
+      <item value="performing network-specific host name resolutions via {@link NetworkgetAllByName Network.getAllByName} is preferred to calling {@code bindProcessToNetwork}." />
+      <item value="is preferred to" />
+      <item value="Note that if {@code network} ever disconnects, all Sockets created in this way will cease to work and all host name resolutions will fail." />
+      <item value="This is by design" />
+      <item value="accidentally" />
+      <item value="This is by design so an application doesn't accidentally use Sockets it thinks are still bound to a particular {@link Network}." />
+      <item value="particular" />
+      <item value="host name resolutions" />
+      <item value="resolutions" />
+      <item value="cease" />
+      <item value="explicitly" />
+      <item value="complete Action" />
+      <item value="Process" />
+      <item value="Identical" />
+      <item value="json parsed fail" />
+      <item value="divisor" />
+      <item value="implicit" />
+      <item value="BEGIN Android-changed: Use a static BasicLruCache mapping Enum class -&gt; Enum instance array. This change was made to fix a performance regression. See b4087759 and b109791362 for more background information." />
+      <item value="Uses this string as a format string and returns a string obtained by substituting the specified arguments, using the default locale." />
+      <item value="not" />
+      <item value="expanded" />
+      <item value="settling" />
+      <item value="Sphere" />
+      <item value="toSphere" />
+      <item value="parse" />
+      <item value="collapsed" />
+      <item value="solid" />
+      <item value="deploy" />
+      <item value="Horizontal" />
+      <item value="Day Night" />
+      <item value="Nested" />
+      <item value="&lt;!-- Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content. --&gt;" />
+      <item value="horizontal" />
+      <item value="Concurrent Modification Exception" />
+      <item value="CUSTOMIZED" />
+      <item value="Boolean" />
+      <item value="&lt;!-- The color applied to framework control highlights (ex. ripples, list selectors). --&gt;" />
+      <item value="underneath" />
+      <item value="NOTE: Explicitly set clipping rect. This is required on Gingerbread." />
+      <item value="@param measureSpec Constraints imposed by the parent." />
+      <item value="Tint" />
+      <item value="interpolator" />
+      <item value="Alert Dialog" />
+      <item value="App Compat" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="206" />
+        <entry key="ENGLISH" value="207" />
+        <entry key="ALBANIAN" value="1" />
+        <entry key="DANISH" value="1" />
+        <entry key="GERMAN" value="1" />
+        <entry key="FRENCH" value="1" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="JAPANESE" value="3" />
+        <entry key="ITALIAN" value="1" />
+        <entry key="INDONESIAN" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620829933494" />
+    <option name="lastTrimTime" value="1620700722206" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="phoneticFontFamily" value="Microsoft YaHei UI" />
+    <option name="primaryFontFamily" value="Microsoft YaHei UI" />
+    <option name="showWordsOnStartup" value="true" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
