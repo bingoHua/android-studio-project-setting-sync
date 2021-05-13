@@ -8,6 +8,7 @@
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/activity_share_export.xml" value="0.161231884057971" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/fragment_multiple_account_mode.xml" value="0.17451874366767983" />
+        <entry key="app/src/main/res/layout/fragment_single_account_mode.xml" value="0.2" />
         <entry key="app/src/main/res/layout/layout_main_activity.xml" value="0.22916666666666666" />
       </map>
     </option>
