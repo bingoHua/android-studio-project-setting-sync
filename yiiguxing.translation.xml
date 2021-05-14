@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="addViewInner() will call child.requestLayout() when setting the new LayoutParams therefore, we call requestLayout() on ourselves before, so that the child's request will be blocked at our level" />
+      <item value="Coroutines Api" />
+      <item value="Android-changed. Removed javadoc comment about special privileges that doesn't make sense on android" />
       <item value="PRIMARY" />
       <item value="Since we draw translated, the drawable's bounds that it signals for invalidation won't be the actual bounds we want invalidated, so just invalidate this whole view." />
       <item value="Indeterminate" />
@@ -52,9 +55,6 @@
       <item value="NOTE: Explicitly set clipping rect. This is required on Gingerbread." />
       <item value="@param measureSpec Constraints imposed by the parent." />
       <item value="Tint" />
-      <item value="interpolator" />
-      <item value="Alert Dialog" />
-      <item value="App Compat" />
     </histories>
     <option name="languageScores">
       <map>
