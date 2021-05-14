@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Duplicate" />
+      <item value="Reduce public mutability" />
       <item value="addViewInner() will call child.requestLayout() when setting the new LayoutParams therefore, we call requestLayout() on ourselves before, so that the child's request will be blocked at our level" />
       <item value="Coroutines Api" />
       <item value="Android-changed. Removed javadoc comment about special privileges that doesn't make sense on android" />
@@ -53,8 +55,6 @@
       <item value="&lt;!-- The color applied to framework control highlights (ex. ripples, list selectors). --&gt;" />
       <item value="underneath" />
       <item value="NOTE: Explicitly set clipping rect. This is required on Gingerbread." />
-      <item value="@param measureSpec Constraints imposed by the parent." />
-      <item value="Tint" />
     </histories>
     <option name="languageScores">
       <map>
