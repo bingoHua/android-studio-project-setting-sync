@@ -7,10 +7,12 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.171875" />
         <entry key="app/src/main/res/layout/fragment_multiple_account_mode.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_single_account_mode.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_videoview.xml" value="0.29270833333333335" />
         <entry key="app/src/main/res/layout/list_video_item.xml" value="0.3489583333333333" />
         <entry key="demo/src/main/res/layout/fragment_base.xml" value="0.296195652173913" />
         <entry key="demo/src/main/res/layout/fragment_custom.xml" value="0.12129629629629629" />
         <entry key="demo/src/main/res/layout/fragment_list.xml" value="0.296195652173913" />
+        <entry key="demo/src/main/res/layout/item_videoview.xml" value="0.22239583333333332" />
       </map>
     </option>
   </component>
