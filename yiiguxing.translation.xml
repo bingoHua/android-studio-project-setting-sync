@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="No need to cancel this scope as it'll be torn down with the process" />
+      <item value="populate" />
+      <item value="The flow always holdscaches latest version of data. Notifies its observers when the data has changed." />
+      <item value="Populate the database in a new coroutine. If you want to start with more words, just add them." />
+      <item value="Wipes and rebuilds instead of migrating if no Migration object. Migration is not part of this codelab." />
       <item value="&lt;p&gt;When retrieving the frame at the given time position, there is no guarantee that the data source has a frame located at the position. When this happens, a frame nearby will be returned. If the long is negative, time position and option will ignored, and any frame that the implementation considers as representative may be returned." />
       <item value="addViewInner() will call child.requestLayout() when setting the new LayoutParams therefore, we call requestLayout() on ourselves before, so that the child's request will be blocked at our level" />
       <item value="Coroutines Api" />
@@ -50,11 +55,6 @@
       <item value="horizontal" />
       <item value="Concurrent Modification Exception" />
       <item value="CUSTOMIZED" />
-      <item value="Boolean" />
-      <item value="&lt;!-- The color applied to framework control highlights (ex. ripples, list selectors). --&gt;" />
-      <item value="underneath" />
-      <item value="NOTE: Explicitly set clipping rect. This is required on Gingerbread." />
-      <item value="@param measureSpec Constraints imposed by the parent." />
     </histories>
     <option name="languageScores">
       <map>
