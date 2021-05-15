@@ -6,11 +6,20 @@
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
   </action>
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
   </action>
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="control button143" />
+  </action>
+  <action id="EditorPasteFromX11" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
   </action>
   <action id="ServiceView.GroupByContributor" />
   <action id="UpdateRunningApplication" />

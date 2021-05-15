@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="&lt;p&gt;When retrieving the frame at the given time position, there is no guarantee that the data source has a frame located at the position. When this happens, a frame nearby will be returned. If the long is negative, time position and option will ignored, and any frame that the implementation considers as representative may be returned." />
       <item value="addViewInner() will call child.requestLayout() when setting the new LayoutParams therefore, we call requestLayout() on ourselves before, so that the child's request will be blocked at our level" />
       <item value="Coroutines Api" />
       <item value="Android-changed. Removed javadoc comment about special privileges that doesn't make sense on android" />
@@ -54,7 +55,6 @@
       <item value="underneath" />
       <item value="NOTE: Explicitly set clipping rect. This is required on Gingerbread." />
       <item value="@param measureSpec Constraints imposed by the parent." />
-      <item value="Tint" />
     </histories>
     <option name="languageScores">
       <map>
