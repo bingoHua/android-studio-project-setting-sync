@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Global executor pools for the whole application. Grouping tasks like this avoids the effects of task starvation (e.g. disk reads don't wait behind webservice requests)." />
       <item value="Mutable Live Data" />
       <item value="Logging for lazy people." />
       <item value="separate class for HTTP 204 responses so that we can make ApiSuccessResponse's body non-null." />
@@ -54,7 +55,6 @@
       <item value="deploy" />
       <item value="Horizontal" />
       <item value="Day Night" />
-      <item value="Nested" />
     </histories>
     <option name="languageScores">
       <map>
