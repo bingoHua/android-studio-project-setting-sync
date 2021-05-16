@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Logging for lazy people." />
+      <item value="separate class for HTTP 204 responses so that we can make ApiSuccessResponse's body non-null." />
       <item value="sealed" />
       <item value="No need to cancel this scope as it'll be torn down with the process" />
       <item value="populate" />
@@ -53,8 +55,6 @@
       <item value="Day Night" />
       <item value="Nested" />
       <item value="&lt;!-- Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content. --&gt;" />
-      <item value="horizontal" />
-      <item value="Concurrent Modification Exception" />
     </histories>
     <option name="languageScores">
       <map>
