@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="sealed" />
       <item value="No need to cancel this scope as it'll be torn down with the process" />
       <item value="populate" />
       <item value="The flow always holdscaches latest version of data. Notifies its observers when the data has changed." />
@@ -54,7 +55,6 @@
       <item value="&lt;!-- Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content. --&gt;" />
       <item value="horizontal" />
       <item value="Concurrent Modification Exception" />
-      <item value="CUSTOMIZED" />
     </histories>
     <option name="languageScores">
       <map>
