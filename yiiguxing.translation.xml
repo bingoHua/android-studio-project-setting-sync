@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="TODO: Set MSS for receiving larger packets from the device" />
+      <item value="mutability" />
       <item value="Duplicate" />
       <item value="Reduce public mutability" />
       <item value="addViewInner() will call child.requestLayout() when setting the new LayoutParams therefore, we call requestLayout() on ourselves before, so that the child's request will be blocked at our level" />
@@ -53,8 +55,6 @@
       <item value="CUSTOMIZED" />
       <item value="Boolean" />
       <item value="&lt;!-- The color applied to framework control highlights (ex. ripples, list selectors). --&gt;" />
-      <item value="underneath" />
-      <item value="NOTE: Explicitly set clipping rect. This is required on Gingerbread." />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620700722206" />
+    <option name="lastTrimTime" value="1621216159665" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
