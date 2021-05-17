@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="TODO: We don't expect out-of-order packets, but verify" />
       <item value="TODO: Set MSS for receiving larger packets from the device" />
       <item value="mutability" />
       <item value="Duplicate" />
@@ -54,7 +55,6 @@
       <item value="Concurrent Modification Exception" />
       <item value="CUSTOMIZED" />
       <item value="Boolean" />
-      <item value="&lt;!-- The color applied to framework control highlights (ex. ripples, list selectors). --&gt;" />
     </histories>
     <option name="languageScores">
       <map>
