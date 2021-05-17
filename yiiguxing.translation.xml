@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="malformed" />
       <item value="Room executes all queries on a separate thread. Observed Flow will notify the observer when the data has changed." />
       <item value="we re-attach dbSource as a new source, it will dispatch its latest value quickly" />
       <item value="Pretty" />
@@ -54,7 +55,6 @@
       <item value="toSphere" />
       <item value="parse" />
       <item value="collapsed" />
-      <item value="solid" />
     </histories>
     <option name="languageScores">
       <map>
