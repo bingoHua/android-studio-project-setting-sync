@@ -5,22 +5,16 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
-      <item value="full Sensor" />
-      <item value="malformed" />
-      <item value="Room executes all queries on a separate thread. Observed Flow will notify the observer when the data has changed." />
-      <item value="we re-attach dbSource as a new source, it will dispatch its latest value quickly" />
-      <item value="Pretty" />
-      <item value="Global executor pools for the whole application. Grouping tasks like this avoids the effects of task starvation (e.g. disk reads don't wait behind webservice requests)." />
-      <item value="Mutable Live Data" />
-      <item value="Logging for lazy people." />
-      <item value="separate class for HTTP 204 responses so that we can make ApiSuccessResponse's body non-null." />
-      <item value="sealed" />
-      <item value="No need to cancel this scope as it'll be torn down with the process" />
-      <item value="populate" />
-      <item value="The flow always holdscaches latest version of data. Notifies its observers when the data has changed." />
-      <item value="Populate the database in a new coroutine. If you want to start with more words, just add them." />
-      <item value="Wipes and rebuilds instead of migrating if no Migration object. Migration is not part of this codelab." />
-      <item value="&lt;p&gt;When retrieving the frame at the given time position, there is no guarantee that the data source has a frame located at the position. When this happens, a frame nearby will be returned. If the long is negative, time position and option will ignored, and any frame that the implementation considers as representative may be returned." />
+      <item value="Configure a builder while parsing the parameters" />
+      <item value="Authenticate and configure the virtual network interface." />
+      <item value="To build a secured tunnel, we should perform mutual authentication and exchange session keys for encryption. To keep things simple in this demo, we just send the shared secret in plaintext and wait for the server to send the parameters. Allocate the buffer for handshaking. We have a hardcoded maximum handshake size of 1024 bytes, which should be enough for demo purposes." />
+      <item value="Datagram Channel" />
+      <item value="Datagram" />
+      <item value="TODO: We don't expect out-of-order packets, but verify" />
+      <item value="TODO: Set MSS for receiving larger packets from the device" />
+      <item value="mutability" />
+      <item value="Duplicate" />
+      <item value="Reduce public mutability" />
       <item value="addViewInner() will call child.requestLayout() when setting the new LayoutParams therefore, we call requestLayout() on ourselves before, so that the child's request will be blocked at our level" />
       <item value="Coroutines Api" />
       <item value="Android-changed. Removed javadoc comment about special privileges that doesn't make sense on android" />
@@ -55,6 +49,12 @@
       <item value="Sphere" />
       <item value="toSphere" />
       <item value="parse" />
+      <item value="collapsed" />
+      <item value="solid" />
+      <item value="deploy" />
+      <item value="Horizontal" />
+      <item value="Day Night" />
+      <item value="Nested" />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621142845737" />
+    <option name="lastTrimTime" value="1620700722206" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
