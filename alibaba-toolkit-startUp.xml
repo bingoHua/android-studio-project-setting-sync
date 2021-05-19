@@ -16,6 +16,7 @@
     <entry projectPath="D:/LetDemo" startUpFlag="FIRST" />
     <entry projectPath="D:/LocalVPN" startUpFlag="FIRST" />
     <entry projectPath="D:/MyVPN" startUpFlag="FIRST" />
+    <entry projectPath="D:/NetWorkPacketCapture" startUpFlag="FIRST" />
     <entry projectPath="D:/ProgressImageDemo" startUpFlag="FIRST" />
     <entry projectPath="D:/RecyclerViewDecorationPractice" startUpFlag="FIRST" />
     <entry projectPath="D:/SelectItemView" startUpFlag="FIRST" />
@@ -28,5 +29,6 @@
     <entry projectPath="D:/testing-samples-master/unit/BasicSample-kotlinApp" startUpFlag="FIRST" />
     <entry projectPath="D:/testing-samples/ui/uiautomator/BasicSample" startUpFlag="FIRST" />
     <entry projectPath="D:/testing-samples/unit/BasicSample-kotlinApp" startUpFlag="FIRST" />
+    <entry projectPath="D:/vpndemo" startUpFlag="FIRST" />
   </component>
 </application>

@@ -1,0 +1,13 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="LzdTkCMasCkkTey4px6M" />
+          <option name="apiUrl" value="https://gitlab.insta360.com/" />
+          <option name="repositoryUrl" value="gitlab.insta360.com" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>

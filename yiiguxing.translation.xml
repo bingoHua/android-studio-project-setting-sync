@@ -55,6 +55,7 @@
       <item value="deploy" />
       <item value="Horizontal" />
       <item value="Day Night" />
+      <item value="Nested" />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621267770810" />
+    <option name="lastTrimTime" value="1621225480284" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
