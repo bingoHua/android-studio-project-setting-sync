@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Found awesome girders at half the cost" />
       <item value="Configure a builder while parsing the parameters" />
       <item value="Authenticate and configure the virtual network interface." />
       <item value="To build a secured tunnel, we should perform mutual authentication and exchange session keys for encryption. To keep things simple in this demo, we just send the shared secret in plaintext and wait for the server to send the parameters. Allocate the buffer for handshaking. We have a hardcoded maximum handshake size of 1024 bytes, which should be enough for demo purposes." />
@@ -54,7 +55,6 @@
       <item value="deploy" />
       <item value="Horizontal" />
       <item value="Day Night" />
-      <item value="Nested" />
     </histories>
     <option name="languageScores">
       <map>
