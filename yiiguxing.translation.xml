@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Seed" />
+      <item value="Create and pre-populate the database. See this article for more details:" />
       <item value="The body of this method is generated in a way you would not otherwise write. This is done to optimize the compiled bytecode for size and performance." />
       <item value="Real apps might want to do a proper sync" />
       <item value="we specially request a new live data, otherwise we will get immediately last cached value, which may not be updated with latest results received from network." />
@@ -53,8 +55,6 @@
       <item value="toSphere" />
       <item value="parse" />
       <item value="collapsed" />
-      <item value="solid" />
-      <item value="deploy" />
     </histories>
     <option name="languageScores">
       <map>
