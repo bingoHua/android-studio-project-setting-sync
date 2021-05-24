@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Disposable" />
       <item value="Seed" />
       <item value="Create and pre-populate the database. See this article for more details:" />
       <item value="The body of this method is generated in a way you would not otherwise write. This is done to optimize the compiled bytecode for size and performance." />
@@ -54,7 +55,6 @@
       <item value="Sphere" />
       <item value="toSphere" />
       <item value="parse" />
-      <item value="collapsed" />
     </histories>
     <option name="languageScores">
       <map>
