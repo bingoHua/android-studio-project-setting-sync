@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="java.lang.IllegalStateException: No instrumentation registered! Must run under a registering instrumentation." />
       <item value="we specially request a new live data, otherwise we will get immediately last cached value, which may not be updated with latest results received from network." />
       <item value="Configure a builder while parsing the parameters" />
       <item value="Authenticate and configure the virtual network interface." />
@@ -54,8 +55,6 @@
       <item value="solid" />
       <item value="deploy" />
       <item value="Horizontal" />
-      <item value="Day Night" />
-      <item value="Nested" />
     </histories>
     <option name="languageScores">
       <map>
