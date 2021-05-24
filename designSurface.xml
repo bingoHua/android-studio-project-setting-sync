@@ -2,38 +2,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../layout/custom_preview.xml" value="0.36614583333333334" />
+        <entry key="../../../layout/custom_preview.xml" value="0.13645833333333332" />
+        <entry key="..\:/JunitTest/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/MyVPN/app/src/main/res/layout/content_main.xml" value="0.3651041666666667" />
         <entry key="..\:/akiko_2/project/editor/src/main/res/layout/explode_photo_player_view.xml" value="0.3229166666666667" />
         <entry key="..\:/akiko_3/project/editor/src/main/res/layout/explode_photo_player_view.xml" value="0.17147922998986828" />
         <entry key="..\:/akiko_3/project/share/src/main/res/drawable/share_export_progress_bg.xml" value="0.20208333333333334" />
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/activity_share_export.xml" value="0.1816123188405797" />
-        <entry key="app/src/main/res/drawable/drawer_item_color.xml" value="0.20555555555555555" />
-        <entry key="app/src/main/res/drawable/ic_list.xml" value="0.3536458333333333" />
-        <entry key="app/src/main/res/drawable/ic_statistics.xml" value="0.3536458333333333" />
-        <entry key="app/src/main/res/font/opensans_font.xml" value="0.2064814814814815" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.17864583333333334" />
-        <entry key="app/src/main/res/layout/addtask_frag.xml" value="0.3385416666666667" />
-        <entry key="app/src/main/res/layout/fragment_main.xml" value="0.203125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.171875" />
         <entry key="app/src/main/res/layout/fragment_multiple_account_mode.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_single_account_mode.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_videoview.xml" value="0.29270833333333335" />
         <entry key="app/src/main/res/layout/list_video_item.xml" value="0.3489583333333333" />
         <entry key="app/src/main/res/layout/list_video_simple_mode2.xml" value="0.3645833333333333" />
         <entry key="app/src/main/res/layout/main_activity.xml" value="0.18697916666666667" />
-        <entry key="app/src/main/res/layout/nav_header.xml" value="0.2223731884057971" />
-        <entry key="app/src/main/res/layout/recent_fragment.xml" value="0.203125" />
-        <entry key="app/src/main/res/layout/statistics_frag.xml" value="0.2223731884057971" />
-        <entry key="app/src/main/res/layout/task_item.xml" value="0.3385416666666667" />
-        <entry key="app/src/main/res/layout/taskdetail_frag.xml" value="0.2223731884057971" />
-        <entry key="app/src/main/res/layout/tasks_act.xml" value="0.3385416666666667" />
-        <entry key="app/src/main/res/layout/tasks_frag.xml" value="0.2223731884057971" />
         <entry key="app/src/main/res/layout/user_fragment.xml" value="0.10916919959473151" />
         <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.3645833333333333" />
-        <entry key="app/src/main/res/menu/drawer_actions.xml" value="0.25" />
-        <entry key="app/src/main/res/menu/filter_tasks.xml" value="0.3385416666666667" />
-        <entry key="app/src/main/res/menu/taskdetail_fragment_menu.xml" value="0.3385416666666667" />
-        <entry key="app/src/main/res/menu/tasks_fragment_menu.xml" value="0.3385416666666667" />
         <entry key="demo/src/main/res/layout/fragment_base.xml" value="0.296195652173913" />
         <entry key="demo/src/main/res/layout/fragment_custom.xml" value="0.12129629629629629" />
         <entry key="demo/src/main/res/layout/fragment_list.xml" value="0.296195652173913" />
