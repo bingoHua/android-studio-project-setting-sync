@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Binds the specified {@link Socket} to this {@code Network}. All data traffic on the socket will be sent on this {@code Network}, irrespective of any process-wide network binding set by {@link ConnectivityManagerbindProcessToNetwork}" />
+      <item value="irrespective" />
       <item value="poll" />
       <item value="If the old interface has exactly the same parameters, use it! Configure a builder while parsing the parameters." />
       <item value="builder" />
@@ -53,8 +55,6 @@
       <item value="BEGIN Android-changed: Use a static BasicLruCache mapping Enum class -&gt; Enum instance array. This change was made to fix a performance regression. See b4087759 and b109791362 for more background information." />
       <item value="Uses this string as a format string and returns a string obtained by substituting the specified arguments, using the default locale." />
       <item value="not" />
-      <item value="expanded" />
-      <item value="settling" />
     </histories>
     <option name="languageScores">
       <map>
