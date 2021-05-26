@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="If you're unsure why you're getting above error read on. Due to the nature of the syntax above problem might occur because: 1. This exception might occur in wrongly written multi-threaded tests. Please refer to Mockito FAQ on limitations of concurrency testing. 2. A spy is stubbed using when(spy.foo()).then() syntax. It is safer to stub spies - - with doReturn|Throw() family of methods. More in javadocs for Mockito.spy() method." />
       <item value="We should ideally be splitting segments by MTUMSS, but this seems to work without" />
       <item value="Instrumented" />
       <item value="java.lang.IllegalStateException: No instrumentation registered! Must run under a registering instrumentation." />
@@ -54,7 +55,6 @@
       <item value="toSphere" />
       <item value="parse" />
       <item value="collapsed" />
-      <item value="solid" />
     </histories>
     <option name="languageScores">
       <map>
