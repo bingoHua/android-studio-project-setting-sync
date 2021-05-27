@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Stub" />
       <item value="Matches any object, excluding nulls." />
       <item value="Matches any object of given type, excluding nulls." />
       <item value="check again right away, there may be another packet" />
@@ -54,7 +55,6 @@
       <item value="Uses this string as a format string and returns a string obtained by substituting the specified arguments, using the default locale." />
       <item value="not" />
       <item value="expanded" />
-      <item value="settling" />
     </histories>
     <option name="languageScores">
       <map>
