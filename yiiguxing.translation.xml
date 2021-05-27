@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Matches any object, excluding nulls." />
       <item value="Matches any object of given type, excluding nulls." />
       <item value="check again right away, there may be another packet" />
       <item value="{ just read and ignore all data, regular read() is not interruptible" />
@@ -54,7 +55,6 @@
       <item value="not" />
       <item value="expanded" />
       <item value="settling" />
-      <item value="Sphere" />
     </histories>
     <option name="languageScores">
       <map>
