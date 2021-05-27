@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Note that Mockito's inline mock maker is not supported on Android." />
       <item value="Stub" />
       <item value="Matches any object, excluding nulls." />
       <item value="Matches any object of given type, excluding nulls." />
@@ -54,7 +55,6 @@
       <item value="BEGIN Android-changed: Use a static BasicLruCache mapping Enum class -&gt; Enum instance array. This change was made to fix a performance regression. See b4087759 and b109791362 for more background information." />
       <item value="Uses this string as a format string and returns a string obtained by substituting the specified arguments, using the default locale." />
       <item value="not" />
-      <item value="expanded" />
     </histories>
     <option name="languageScores">
       <map>
