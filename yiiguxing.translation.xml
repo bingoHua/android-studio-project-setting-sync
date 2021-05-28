@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="repeat Interval" />
       <item value="Periodic" />
       <item value="We should ideally be splitting segments by MTUMSS, but this seems to work without" />
       <item value="Instrumented" />
@@ -54,7 +55,6 @@
       <item value="Sphere" />
       <item value="toSphere" />
       <item value="parse" />
-      <item value="collapsed" />
     </histories>
     <option name="languageScores">
       <map>
