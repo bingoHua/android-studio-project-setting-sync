@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Simple factory, which calls empty constructor on the give class." />
       <item value="optimize" />
       <item value="Note, for testing and architecture purposes, it's bad practice to construct the repository here. We'll show you how to fix this during the codelab" />
       <item value="Note, for testing and architecture purposes, it's bad practice to construct the repository" />
@@ -54,7 +55,6 @@
       <item value="Identical" />
       <item value="json parsed fail" />
       <item value="divisor" />
-      <item value="implicit" />
     </histories>
     <option name="languageScores">
       <map>
