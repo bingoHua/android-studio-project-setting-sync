@@ -5,8 +5,20 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
-      <item value="repeat Interval" />
-      <item value="Periodic" />
+      <item value="Poll" />
+      <item value="e Poll" />
+      <item value="using an in-memory database for testing, since it doesn't survive killing the process" />
+      <item value="Simple factory, which calls empty constructor on the give class." />
+      <item value="optimize" />
+      <item value="Note, for testing and architecture purposes, it's bad practice to construct the repository here. We'll show you how to fix this during the codelab" />
+      <item value="Note, for testing and architecture purposes, it's bad practice to construct the repository" />
+      <item value="Note that Mockito's inline mock maker is not supported on Android." />
+      <item value="Stub" />
+      <item value="Matches any object, excluding nulls." />
+      <item value="Matches any object of given type, excluding nulls." />
+      <item value="check again right away, there may be another packet" />
+      <item value="{ just read and ignore all data, regular read() is not interruptible" />
+      <item value="If you're unsure why you're getting above error read on. Due to the nature of the syntax above problem might occur because: 1. This exception might occur in wrongly written multi-threaded tests. Please refer to Mockito FAQ on limitations of concurrency testing. 2. A spy is stubbed using when(spy.foo()).then() syntax. It is safer to stub spies - - with doReturn|Throw() family of methods. More in javadocs for Mockito.spy() method." />
       <item value="We should ideally be splitting segments by MTUMSS, but this seems to work without" />
       <item value="Instrumented" />
       <item value="java.lang.IllegalStateException: No instrumentation registered! Must run under a registering instrumentation." />
@@ -43,18 +55,6 @@
       <item value="explicitly" />
       <item value="complete Action" />
       <item value="Process" />
-      <item value="Identical" />
-      <item value="json parsed fail" />
-      <item value="divisor" />
-      <item value="implicit" />
-      <item value="BEGIN Android-changed: Use a static BasicLruCache mapping Enum class -&gt; Enum instance array. This change was made to fix a performance regression. See b4087759 and b109791362 for more background information." />
-      <item value="Uses this string as a format string and returns a string obtained by substituting the specified arguments, using the default locale." />
-      <item value="not" />
-      <item value="expanded" />
-      <item value="settling" />
-      <item value="Sphere" />
-      <item value="toSphere" />
-      <item value="parse" />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622215168590" />
+    <option name="lastTrimTime" value="1622095452897" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
