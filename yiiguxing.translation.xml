@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Poll" />
+      <item value="e Poll" />
       <item value="using an in-memory database for testing, since it doesn't survive killing the process" />
       <item value="Simple factory, which calls empty constructor on the give class." />
       <item value="optimize" />
@@ -53,8 +55,6 @@
       <item value="explicitly" />
       <item value="complete Action" />
       <item value="Process" />
-      <item value="Identical" />
-      <item value="json parsed fail" />
     </histories>
     <option name="languageScores">
       <map>
