@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="sensor Portrait" />
       <item value="Portrait" />
       <item value="sensor" />
       <item value="Appends all elements yielded from results of [transform] function being invoked on each element of original array, to the given [destination]." />
@@ -54,7 +55,6 @@
       <item value="particular" />
       <item value="host name resolutions" />
       <item value="resolutions" />
-      <item value="cease" />
     </histories>
     <option name="languageScores">
       <map>
