@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="PODCASTS" />
       <item value="Throttled" />
       <item value="Incorrect" />
       <item value="sensor Portrait" />
@@ -54,7 +55,6 @@
       <item value="This is by design" />
       <item value="accidentally" />
       <item value="This is by design so an application doesn't accidentally use Sockets it thinks are still bound to a particular {@link Network}." />
-      <item value="particular" />
     </histories>
     <option name="languageScores">
       <map>
