@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Remaining" />
       <item value="Protect the tunnel before connecting to avoid loopback." />
       <item value="TODO: The better way is to work with ConnectivityManager, trying only when the network is available. Here we just use a counter to keep things simple." />
       <item value="If anything needs to be obtained using the network, get it now. This greatly reduces the complexity of seamless handover, which tries to recreate the tunnel without shutting down everything. In this demo, all we need to know is the server address." />
@@ -54,7 +55,6 @@
       <item value="Using individually bound Sockets created by Network.getSocketFactory().createSocket() and performing network-specific host name resolutions via {@link NetworkgetAllByName Network.getAllByName} is preferred to calling {@code bindProcessToNetwork}." />
       <item value="performing network-specific host name resolutions via {@link NetworkgetAllByName Network.getAllByName} is preferred to calling {@code bindProcessToNetwork}." />
       <item value="is preferred to" />
-      <item value="Note that if {@code network} ever disconnects, all Sockets created in this way will cease to work and all host name resolutions will fail." />
     </histories>
     <option name="languageScores">
       <map>
