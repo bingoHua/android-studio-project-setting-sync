@@ -4,6 +4,20 @@
       <map>
         <entry key="../../../layout/custom_preview.xml" value="0.1111111111111111" />
         <entry key="..\:/Akiko_1/project/community/src/main/res/layout/recyclerview_item_community_category_collection_line_single_item.xml" value="0.14945652173913043" />
+        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/bg_overtaking_net_btn_selector.xml" value="0.3074074074074074" />
+        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/bg_tiny_program_preview_apply_btn.xml" value="0.35208333333333336" />
+        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/bg_tiny_program_preview_apply_disable_btn.xml" value="0.32685185185185184" />
+        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/ic_adjust_fov_linear_selector.xml" value="0.3074074074074074" />
+        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/ic_adjust_perspective_selector.xml" value="0.3074074074074074" />
+        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/ic_btn_update_transform.xml" value="0.3074074074074074" />
+        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/ic_dashboard_selector.xml" value="0.3074074074074074" />
+        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/ic_dollyzoom_mode_human.xml" value="0.3074074074074074" />
+        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/ic_drawable_ratio_235x100_selector.xml" value="0.3074074074074074" />
+        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/ic_drawable_ratio_9x16_selector.xml" value="0.3074074074074074" />
+        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/player_setting_btn_normal.xml" value="0.3074074074074074" />
+        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/player_setting_btn_pressed.xml" value="0.3074074074074074" />
+        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/player_setting_btn_selector.xml" value="0.3074074074074074" />
+        <entry key="..\:/Akiko_1/project/editor/src/main/res/layout/activity_moto_cycle.xml" value="1.0" />
         <entry key="..\:/JunitTest/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/MyVPN/app/src/main/res/layout/content_main.xml" value="0.3651041666666667" />
         <entry key="..\:/akiko_2/project/editor/src/main/res/layout/explode_photo_player_view.xml" value="0.3229166666666667" />
