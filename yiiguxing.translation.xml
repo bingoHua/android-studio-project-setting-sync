@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Guaranteed to modify the current object by the isAutoCloneEnabledCheck" />
       <item value="payload" />
       <item value="Duplicate" />
       <item value="PODCASTS" />
@@ -54,7 +55,6 @@
       <item value="is preferred to" />
       <item value="Note that if {@code network} ever disconnects, all Sockets created in this way will cease to work and all host name resolutions will fail." />
       <item value="This is by design" />
-      <item value="accidentally" />
     </histories>
     <option name="languageScores">
       <map>
