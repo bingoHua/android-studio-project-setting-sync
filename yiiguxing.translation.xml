@@ -8,6 +8,11 @@
       <item value="Guaranteed to modify the current object by the isAutoCloneEnabledCheck" />
       <item value="payload" />
       <item value="Duplicate" />
+      <item value="Remaining" />
+      <item value="Protect the tunnel before connecting to avoid loopback." />
+      <item value="TODO: The better way is to work with ConnectivityManager, trying only when the network is available. Here we just use a counter to keep things simple." />
+      <item value="If anything needs to be obtained using the network, get it now. This greatly reduces the complexity of seamless handover, which tries to recreate the tunnel without shutting down everything. In this demo, all we need to know is the server address." />
+      <item value="Authenticate and configure the virtual network interface." />
       <item value="PODCASTS" />
       <item value="Throttled" />
       <item value="Incorrect" />
@@ -34,7 +39,6 @@
       <item value="java.lang.IllegalStateException: No instrumentation registered! Must run under a registering instrumentation." />
       <item value="we specially request a new live data, otherwise we will get immediately last cached value, which may not be updated with latest results received from network." />
       <item value="Configure a builder while parsing the parameters" />
-      <item value="Authenticate and configure the virtual network interface." />
       <item value="To build a secured tunnel, we should perform mutual authentication and exchange session keys for encryption. To keep things simple in this demo, we just send the shared secret in plaintext and wait for the server to send the parameters. Allocate the buffer for handshaking. We have a hardcoded maximum handshake size of 1024 bytes, which should be enough for demo purposes." />
       <item value="Datagram Channel" />
       <item value="Datagram" />
@@ -72,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623725426265" />
+    <option name="lastTrimTime" value="1622532557056" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">

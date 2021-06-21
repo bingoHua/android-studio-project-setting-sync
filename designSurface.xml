@@ -3,40 +3,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../layout/custom_preview.xml" value="0.1111111111111111" />
-        <entry key="..\:/Akiko_1/project/community/src/main/res/layout/recyclerview_item_community_category_collection_line_single_item.xml" value="0.16388044579533942" />
-        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/bg_overtaking_net_btn_selector.xml" value="0.3074074074074074" />
-        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/bg_tiny_program_preview_apply_btn.xml" value="0.35208333333333336" />
-        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/bg_tiny_program_preview_apply_disable_btn.xml" value="0.32685185185185184" />
-        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/ic_adjust_fov_linear_selector.xml" value="0.3074074074074074" />
-        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/ic_adjust_perspective_selector.xml" value="0.3074074074074074" />
-        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/ic_btn_update_transform.xml" value="0.3074074074074074" />
-        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/ic_dashboard_selector.xml" value="0.3074074074074074" />
-        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/ic_dollyzoom_mode_human.xml" value="0.3074074074074074" />
-        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/ic_drawable_ratio_235x100_selector.xml" value="0.3074074074074074" />
-        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/ic_drawable_ratio_9x16_selector.xml" value="0.3074074074074074" />
-        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/player_setting_btn_normal.xml" value="0.3074074074074074" />
-        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/player_setting_btn_pressed.xml" value="0.3074074074074074" />
-        <entry key="..\:/Akiko_1/project/editor/src/main/res/drawable/player_setting_btn_selector.xml" value="0.3074074074074074" />
-        <entry key="..\:/Akiko_1/project/editor/src/main/res/layout/activity_moto_cycle.xml" value="1.0" />
         <entry key="..\:/JunitTest/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/MyVPN/app/src/main/res/layout/content_main.xml" value="0.3651041666666667" />
         <entry key="..\:/akiko_2/project/editor/src/main/res/layout/explode_photo_player_view.xml" value="0.3229166666666667" />
         <entry key="..\:/akiko_3/project/akiko/src/main/res/layout/activity_developer.xml" value="0.1766304347826087" />
-        <entry key="..\:/akiko_3/project/akiko/src/main/res/layout/dialog_one_take_highlight_tip.xml" value="0.1" />
-        <entry key="..\:/akiko_3/project/community/src/main/res/layout/activity_single_category_item.xml" value="0.16388044579533942" />
-        <entry key="..\:/akiko_3/project/community/src/main/res/layout/recyclerview_item_community_category_collection_line_single_item.xml" value="0.16185410334346503" />
         <entry key="..\:/akiko_3/project/editor/src/main/res/layout/activity_circle_clone.xml" value="0.3203125" />
         <entry key="..\:/akiko_3/project/editor/src/main/res/layout/activity_dash_board.xml" value="0.31614583333333335" />
         <entry key="..\:/akiko_3/project/editor/src/main/res/layout/explode_photo_player_view.xml" value="0.17147922998986828" />
         <entry key="..\:/akiko_3/project/share/src/main/res/drawable/share_export_progress_bg.xml" value="0.20208333333333334" />
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/activity_share_export.xml" value="0.1816123188405797" />
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/activity_test.xml" value="0.1" />
-        <entry key="..\:/akiko_3/project/share/src/main/res/layout/fragment_image_banner.xml" value="0.16388044579533942" />
-        <entry key="..\:/akiko_3/project/share/src/main/res/layout/fragment_share_tab.xml" value="0.16388044579533942" />
-        <entry key="..\:/akiko_3/project/share/src/main/res/layout/fragment_text_banner.xml" value="0.16388044579533942" />
-        <entry key="..\:/akiko_3/project/share/src/main/res/layout/fragment_video_banner.xml" value="0.32653985507246375" />
-        <entry key="..\:/akiko_3/project/share/src/main/res/layout/share_ad_web_view_layout.xml" value="0.13858695652173914" />
-        <entry key="..\:/akiko_3/project/share/src/main/res/layout/share_switch.xml" value="0.1529888551165147" />
         <entry key="..\:/android-testing/app/src/main/res/layout/tasks_frag.xml" value="0.11930091185410334" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.171875" />
         <entry key="app/src/main/res/layout/fragment_garden.xml" value="0.1" />
