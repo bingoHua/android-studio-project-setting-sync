@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="&lt;!-- Makes the TextView be exactly this many lines tall. --&gt;" />
       <item value="TODO(b76413401): make class final after the widget migration is finished" />
       <item value="Concurrent" />
       <item value="explode" />
@@ -54,7 +55,6 @@
       <item value="addViewInner() will call child.requestLayout() when setting the new LayoutParams therefore, we call requestLayout() on ourselves before, so that the child's request will be blocked at our level" />
       <item value="Coroutines Api" />
       <item value="Android-changed. Removed javadoc comment about special privileges that doesn't make sense on android" />
-      <item value="PRIMARY" />
     </histories>
     <option name="languageScores">
       <map>
