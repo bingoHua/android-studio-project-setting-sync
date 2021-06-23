@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="explode" />
       <item value="WARNING: An illegal reflective access operation has occurred" />
       <item value="Nothing, but ends quoting started by \Q" />
       <item value="Guaranteed to modify the current object by the isAutoCloneEnabledCheck" />
@@ -54,7 +55,6 @@
       <item value="PRIMARY" />
       <item value="Since we draw translated, the drawable's bounds that it signals for invalidation won't be the actual bounds we want invalidated, so just invalidate this whole view." />
       <item value="Indeterminate" />
-      <item value="indeterminate" />
     </histories>
     <option name="languageScores">
       <map>
