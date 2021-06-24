@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="&lt;!-- State value for {@link android.graphics.drawable.StateListDrawable StateListDrawable}, set when a view (or one of its parents) is currently selected. --&gt;" />
       <item value="&lt;!-- Constrains the text to a single horizontally scrolling line instead of letting it wrap onto multiple lines, and advances focus instead of inserting a newline when you press the enter key. The default value is false (multi-line wrapped text mode) for non-editable text, but if you specify any value for inputType, the default is true (single-line input field mode). {@deprecated This attribute is deprecated. Use &lt;code&gt;maxLines&lt;code&gt; instead to change the layout of a static text, and use the &lt;code&gt;textMultiLine&lt;code&gt; flag in the inputType attribute instead for editable text views (if both singleLine and inputType are supplied, the inputType flags will override the value of singleLine). } --&gt;" />
       <item value="When used on an editable text, the &lt;code&gt;inputType&lt;code&gt; attribute's value must be combined with the &lt;code&gt;textMultiLine&lt;code&gt; flag for the maxLines attribute to apply. --&gt;" />
       <item value="&lt;!-- Makes the TextView be exactly this many lines tall. --&gt;" />
@@ -54,7 +55,6 @@
       <item value="TODO: Set MSS for receiving larger packets from the device" />
       <item value="mutability" />
       <item value="Reduce public mutability" />
-      <item value="addViewInner() will call child.requestLayout() when setting the new LayoutParams therefore, we call requestLayout() on ourselves before, so that the child's request will be blocked at our level" />
     </histories>
     <option name="languageScores">
       <map>
