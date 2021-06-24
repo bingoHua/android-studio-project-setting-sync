@@ -21,17 +21,23 @@
         <entry key="..\:/akiko_3/project/share/src/main/res/drawable/circle_yellow_unpressed.xml" value="0.3466666666666667" />
         <entry key="..\:/akiko_3/project/share/src/main/res/drawable/seek_share_indicator_thumb.xml" value="0.3466666666666667" />
         <entry key="..\:/akiko_3/project/share/src/main/res/drawable/share_export_progress_bg.xml" value="0.20208333333333334" />
-        <entry key="..\:/akiko_3/project/share/src/main/res/drawable/share_selectable_bar_progress_background.xml" value="0.3466666666666667" />
+        <entry key="..\:/akiko_3/project/share/src/main/res/drawable/share_popup_circularbg.xml" value="0.278125" />
+        <entry key="..\:/akiko_3/project/share/src/main/res/drawable/share_selectable_bar_progress_background.xml" value="0.278125" />
+        <entry key="..\:/akiko_3/project/share/src/main/res/drawable/share_simple_edit_et_bg.xml" value="0.278125" />
+        <entry key="..\:/akiko_3/project/share/src/main/res/drawable/share_simple_tag_search_bg.xml" value="0.278125" />
+        <entry key="..\:/akiko_3/project/share/src/main/res/drawable/switch_setting_track_no_stroke.xml" value="0.278125" />
+        <entry key="..\:/akiko_3/project/share/src/main/res/drawable/switch_setting_track_off_disable.xml" value="0.278125" />
         <entry key="..\:/akiko_3/project/share/src/main/res/drawable/tab_share_background.xml" value="0.3333333333333333" />
-        <entry key="..\:/akiko_3/project/share/src/main/res/drawable/tab_share_selector_background.xml" value="0.3333333333333333" />
+        <entry key="..\:/akiko_3/project/share/src/main/res/drawable/tab_share_selector_background.xml" value="0.278125" />
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/activity_share_export.xml" value="0.1816123188405797" />
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/activity_test.xml" value="0.1" />
+        <entry key="..\:/akiko_3/project/share/src/main/res/layout/export_config_item.xml" value="0.2630208333333333" />
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/fragment_share_tab.xml" value="0.1956521739130435" />
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/share_bottom_comment_layout.xml" value="0.21557971014492755" />
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/share_bottom_sheet.xml" value="0.17708333333333334" />
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/share_platform.xml" value="0.2947916666666667" />
-        <entry key="..\:/akiko_3/project/share/src/main/res/layout/share_selectable_bar.xml" value="0.33" />
-        <entry key="..\:/akiko_3/project/share/src/main/res/layout/share_tab.xml" value="0.25" />
+        <entry key="..\:/akiko_3/project/share/src/main/res/layout/share_selectable_bar.xml" value="0.25" />
+        <entry key="..\:/akiko_3/project/share/src/main/res/layout/share_tab.xml" value="0.17300724637681159" />
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/share_tab_text.xml" value="0.2586050724637681" />
         <entry key="..\:/android-testing/app/src/main/res/layout/tasks_frag.xml" value="0.11930091185410334" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.171875" />
