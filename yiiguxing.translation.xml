@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Assuming the thumb drawable is symmetric, set the thumb offset such that the thumb will hang halfway off either edge of the progress bar." />
       <item value="&lt;!-- Whether to split the track and leave a gap for the thumb drawable. --&gt;" />
       <item value="&lt;!-- Blending mode used to apply the background tint. --&gt; &lt;attr name=&quot;backgroundTintMode&quot;&gt; &lt;!-- The tint is drawn on top of the drawable. [Sa + (1 - Sa)Da, Rc = Sc + (1 - Sa)Dc] --&gt; &lt;enum name=&quot;src_over&quot; value=&quot;3&quot; &gt; &lt;!-- The tint is masked by the alpha channel of the drawable. The drawable’s color channels are thrown out. [Sa Da, Sc Da] --&gt; &lt;enum name=&quot;src_in&quot; value=&quot;5&quot; &gt; &lt;!-- The tint is drawn above the drawable, but with the drawable’s alpha channel masking the result. [Da, Sc Da + (1 - Sa) Dc] --&gt; &lt;enum name=&quot;src_atop&quot; value=&quot;9&quot; &gt; &lt;!-- Multiplies the color and alpha channels of the drawable with those of the tint. [Sa Da, Sc Dc] --&gt; &lt;enum name=&quot;multiply&quot; value=&quot;14&quot; &gt; &lt;!-- [Sa + Da - Sa Da, Sc + Dc - Sc Dc] --&gt; &lt;enum name=&quot;screen&quot; value=&quot;15&quot; &gt; &lt;!-- Combines the tint and drawable color and alpha channels, clamping the result to valid color values. Saturate(S + D) --&gt; &lt;enum name=&quot;add&quot; value=&quot;16&quot; &gt; &lt;attr&gt;" />
       <item value="An offset for the thumb that allows it to extend out of the range of the track" />
@@ -54,7 +55,6 @@
       <item value="To build a secured tunnel, we should perform mutual authentication and exchange session keys for encryption. To keep things simple in this demo, we just send the shared secret in plaintext and wait for the server to send the parameters. Allocate the buffer for handshaking. We have a hardcoded maximum handshake size of 1024 bytes, which should be enough for demo purposes." />
       <item value="Datagram Channel" />
       <item value="Datagram" />
-      <item value="TODO: We don't expect out-of-order packets, but verify" />
     </histories>
     <option name="languageScores">
       <map>
