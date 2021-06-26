@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="584" />
-    <option name="newTranslationDialogX" value="2727" />
-    <option name="newTranslationDialogY" value="450" />
+    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogX" value="686" />
+    <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Out-projected type'BaseItem&lt;*&gt;' prohibits the use of'public abstract fun areContentSame(baseItem: BaseItem&lt;T&gt;): Boolean defined in com.arashivision.insta360.share.ui.akiko.configBottomSheet.itemWidgets.BaseItem'" />
+      <item value="Out-projected type 'BaseItem&lt;*&gt;' 禁止使用 'public abstract fun areContentSame(baseItem: BaseItem&lt;T&gt;): Boolean defined in com.arashivision.insta360.share.ui.akiko.configBottomSheet.itemWidgets.BaseItem'" />
+      <item value="Out-projected type 'BaseItem&lt;*&gt;' prohibits the use of 'public abstract fun areContentSame(baseItem: BaseItem&lt;T&gt;): Boolean defined in com.arashivision.insta360.share.ui.akiko.configBottomSheet.itemWidgets.BaseItem'" />
       <item value="Myers' algorithm uses two lists as axis labels. In DiffUtil's implementation, `x` axis is used for old list and `y` axis is used for new list." />
       <item value="Assuming the thumb drawable is symmetric, set the thumb offset such that the thumb will hang halfway off either edge of the progress bar." />
       <item value="&lt;!-- Whether to split the track and leave a gap for the thumb drawable. --&gt;" />
@@ -52,9 +55,6 @@
       <item value="Instrumented" />
       <item value="java.lang.IllegalStateException: No instrumentation registered! Must run under a registering instrumentation." />
       <item value="we specially request a new live data, otherwise we will get immediately last cached value, which may not be updated with latest results received from network." />
-      <item value="Configure a builder while parsing the parameters" />
-      <item value="To build a secured tunnel, we should perform mutual authentication and exchange session keys for encryption. To keep things simple in this demo, we just send the shared secret in plaintext and wait for the server to send the parameters. Allocate the buffer for handshaking. We have a hardcoded maximum handshake size of 1024 bytes, which should be enough for demo purposes." />
-      <item value="Datagram Channel" />
     </histories>
     <option name="languageScores">
       <map>
