@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="We have to handle cases that the ViewDragHelper does not capture the bottom sheet because it is not the top most view of its parent. This is not necessary when the touch event is happening over the scrolling content as nested scrolling logic handles that case." />
       <item value="Don't keep going if we're not allowing interaction below this. Setting newBlock will make sure we cancel the rest of the behaviors." />
       <item value="Let topmost child views inspect first" />
       <item value="Cancel all behaviors beneath the one that intercepted. If the event is &quot;down&quot; then we don't have anything to cancel yet." />
@@ -54,7 +55,6 @@
       <item value="Since we draw translated, the drawable's bounds that it signals for invalidation won't be the actual bounds we want invalidated, so just invalidate this whole view." />
       <item value="Indeterminate" />
       <item value="indeterminate" />
-      <item value="consider" />
     </histories>
     <option name="languageScores">
       <map>
