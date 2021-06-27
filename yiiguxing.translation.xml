@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Don't keep going if we're not allowing interaction below this. Setting newBlock will make sure we cancel the rest of the behaviors." />
+      <item value="Let topmost child views inspect first" />
+      <item value="Cancel all behaviors beneath the one that intercepted. If the event is &quot;down&quot; then we don't have anything to cancel yet." />
       <item value="Remaining" />
       <item value="Protect the tunnel before connecting to avoid loopback." />
       <item value="TODO: The better way is to work with ConnectivityManager, trying only when the network is available. Here we just use a counter to keep things simple." />
@@ -52,9 +55,6 @@
       <item value="Indeterminate" />
       <item value="indeterminate" />
       <item value="consider" />
-      <item value="Using individually bound Sockets created by Network.getSocketFactory().createSocket() and performing network-specific host name resolutions via {@link NetworkgetAllByName Network.getAllByName} is preferred to calling {@code bindProcessToNetwork}." />
-      <item value="performing network-specific host name resolutions via {@link NetworkgetAllByName Network.getAllByName} is preferred to calling {@code bindProcessToNetwork}." />
-      <item value="is preferred to" />
     </histories>
     <option name="languageScores">
       <map>

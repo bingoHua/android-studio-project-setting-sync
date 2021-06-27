@@ -33,6 +33,7 @@
         <entry key="demo/src/main/res/layout/fragment_custom.xml" value="0.12129629629629629" />
         <entry key="demo/src/main/res/layout/fragment_list.xml" value="0.296195652173913" />
         <entry key="demo/src/main/res/layout/item_videoview.xml" value="0.22239583333333332" />
+        <entry key="share/src/main/res/layout/fragment_share_tab.xml" value="0.1" />
       </map>
     </option>
   </component>
