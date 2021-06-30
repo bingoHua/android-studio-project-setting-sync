@@ -1,18 +1,32 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="584" />
-    <option name="newTranslationDialogX" value="2727" />
-    <option name="newTranslationDialogY" value="450" />
+    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogX" value="686" />
+    <option name="newTranslationDialogY" value="451" />
     <histories>
-      <item value="on Hidden Changed" />
-      <item value="Using insecure protocols with repositories, without explicit opt-in, is unsupported. Switch Maven repository 'maven2(http:nexus.arashivision.com:9999repositorymaven-group)' to redirect to a secure protocol (like HTTPS) or allow insecure protocols. See https:docs.gradle.org7.1dslorg.gradle.api.artifacts.repositories.UrlArtifactRepository.htmlorg.gradle.api.artifacts.repositories.UrlArtifactRepository:allowInsecureProtocol for more details." />
-      <item value="Hint" />
-      <item value="We don't have any idea how big we are yet and shouldn't have any pages either. Just set things up and let the pending layout handle things." />
-      <item value="We have to handle cases that the ViewDragHelper does not capture the bottom sheet because it is not the top most view of its parent. This is not necessary when the touch event is happening over the scrolling content as nested scrolling logic handles that case." />
-      <item value="Don't keep going if we're not allowing interaction below this. Setting newBlock will make sure we cancel the rest of the behaviors." />
-      <item value="Let topmost child views inspect first" />
-      <item value="Cancel all behaviors beneath the one that intercepted. If the event is &quot;down&quot; then we don't have anything to cancel yet." />
+      <item value="Called when the parent CoordinatorLayout is about the lay out the given child view. &lt;p&gt;This method can be used to perform custom or modified layout of a child view in place of the default child layout behavior. The Behavior's implementation can delegate to the standard CoordinatorLayout measurement behavior by calling {@link CoordinatorLayoutonLayoutChild(View, int) parent.onLayoutChild}.&lt;p&gt; &lt;p&gt;If a Behavior implements {@link onDependentViewChanged(CoordinatorLayout, View, View)} to change the position of a view in response to a dependent view changing, it should also implement &lt;code&gt;onLayoutChild&lt;code&gt; in such a way that respects those dependent views. &lt;code&gt;onLayoutChild&lt;code&gt; will always be called for a dependent view &lt;em&gt;after&lt;em&gt; its dependency has been laid out.&lt;p&gt; @param parent the parent CoordinatorLayout @param child child view to lay out @param layoutDirection the resolved layout direction for the CoordinatorLayout, such as {@link ViewCompatLAYOUT_DIRECTION_LTR} or {@link ViewCompatLAYOUT_DIRECTION_RTL}. @return true if the Behavior performed layout of the child view, false to request default layout behavior" />
+      <item value="A fake drag is in progress already, ignore this real one but still eat the touch events. (It is likely that the user is multi-touching the screen.)" />
+      <item value="Out-projected type'BaseItem&lt;*&gt;' prohibits the use of'public abstract fun areContentSame(baseItem: BaseItem&lt;T&gt;): Boolean defined in com.arashivision.insta360.share.ui.akiko.configBottomSheet.itemWidgets.BaseItem'" />
+      <item value="Out-projected type 'BaseItem&lt;*&gt;' 禁止使用 'public abstract fun areContentSame(baseItem: BaseItem&lt;T&gt;): Boolean defined in com.arashivision.insta360.share.ui.akiko.configBottomSheet.itemWidgets.BaseItem'" />
+      <item value="Out-projected type 'BaseItem&lt;*&gt;' prohibits the use of 'public abstract fun areContentSame(baseItem: BaseItem&lt;T&gt;): Boolean defined in com.arashivision.insta360.share.ui.akiko.configBottomSheet.itemWidgets.BaseItem'" />
+      <item value="Myers' algorithm uses two lists as axis labels. In DiffUtil's implementation, `x` axis is used for old list and `y` axis is used for new list." />
+      <item value="Assuming the thumb drawable is symmetric, set the thumb offset such that the thumb will hang halfway off either edge of the progress bar." />
+      <item value="&lt;!-- Whether to split the track and leave a gap for the thumb drawable. --&gt;" />
+      <item value="&lt;!-- Blending mode used to apply the background tint. --&gt; &lt;attr name=&quot;backgroundTintMode&quot;&gt; &lt;!-- The tint is drawn on top of the drawable. [Sa + (1 - Sa)Da, Rc = Sc + (1 - Sa)Dc] --&gt; &lt;enum name=&quot;src_over&quot; value=&quot;3&quot; &gt; &lt;!-- The tint is masked by the alpha channel of the drawable. The drawable’s color channels are thrown out. [Sa Da, Sc Da] --&gt; &lt;enum name=&quot;src_in&quot; value=&quot;5&quot; &gt; &lt;!-- The tint is drawn above the drawable, but with the drawable’s alpha channel masking the result. [Da, Sc Da + (1 - Sa) Dc] --&gt; &lt;enum name=&quot;src_atop&quot; value=&quot;9&quot; &gt; &lt;!-- Multiplies the color and alpha channels of the drawable with those of the tint. [Sa Da, Sc Dc] --&gt; &lt;enum name=&quot;multiply&quot; value=&quot;14&quot; &gt; &lt;!-- [Sa + Da - Sa Da, Sc + Dc - Sc Dc] --&gt; &lt;enum name=&quot;screen&quot; value=&quot;15&quot; &gt; &lt;!-- Combines the tint and drawable color and alpha channels, clamping the result to valid color values. Saturate(S + D) --&gt; &lt;enum name=&quot;add&quot; value=&quot;16&quot; &gt; &lt;attr&gt;" />
+      <item value="An offset for the thumb that allows it to extend out of the range of the track" />
+      <item value="&lt;!-- State value for {@link android.graphics.drawable.StateListDrawable StateListDrawable}, set when a view (or one of its parents) is currently selected. --&gt;" />
+      <item value="&lt;!-- Constrains the text to a single horizontally scrolling line instead of letting it wrap onto multiple lines, and advances focus instead of inserting a newline when you press the enter key. The default value is false (multi-line wrapped text mode) for non-editable text, but if you specify any value for inputType, the default is true (single-line input field mode). {@deprecated This attribute is deprecated. Use &lt;code&gt;maxLines&lt;code&gt; instead to change the layout of a static text, and use the &lt;code&gt;textMultiLine&lt;code&gt; flag in the inputType attribute instead for editable text views (if both singleLine and inputType are supplied, the inputType flags will override the value of singleLine). } --&gt;" />
+      <item value="When used on an editable text, the &lt;code&gt;inputType&lt;code&gt; attribute's value must be combined with the &lt;code&gt;textMultiLine&lt;code&gt; flag for the maxLines attribute to apply. --&gt;" />
+      <item value="&lt;!-- Makes the TextView be exactly this many lines tall. --&gt;" />
+      <item value="TODO(b76413401): make class final after the widget migration is finished" />
+      <item value="Concurrent" />
+      <item value="explode" />
+      <item value="WARNING: An illegal reflective access operation has occurred" />
+      <item value="Nothing, but ends quoting started by \Q" />
+      <item value="Guaranteed to modify the current object by the isAutoCloneEnabledCheck" />
+      <item value="payload" />
+      <item value="Duplicate" />
       <item value="Remaining" />
       <item value="Protect the tunnel before connecting to avoid loopback." />
       <item value="TODO: The better way is to work with ConnectivityManager, trying only when the network is available. Here we just use a counter to keep things simple." />
@@ -41,20 +55,6 @@
       <item value="If you're unsure why you're getting above error read on. Due to the nature of the syntax above problem might occur because: 1. This exception might occur in wrongly written multi-threaded tests. Please refer to Mockito FAQ on limitations of concurrency testing. 2. A spy is stubbed using when(spy.foo()).then() syntax. It is safer to stub spies - - with doReturn|Throw() family of methods. More in javadocs for Mockito.spy() method." />
       <item value="We should ideally be splitting segments by MTUMSS, but this seems to work without" />
       <item value="Instrumented" />
-      <item value="java.lang.IllegalStateException: No instrumentation registered! Must run under a registering instrumentation." />
-      <item value="we specially request a new live data, otherwise we will get immediately last cached value, which may not be updated with latest results received from network." />
-      <item value="Configure a builder while parsing the parameters" />
-      <item value="To build a secured tunnel, we should perform mutual authentication and exchange session keys for encryption. To keep things simple in this demo, we just send the shared secret in plaintext and wait for the server to send the parameters. Allocate the buffer for handshaking. We have a hardcoded maximum handshake size of 1024 bytes, which should be enough for demo purposes." />
-      <item value="Datagram Channel" />
-      <item value="Datagram" />
-      <item value="TODO: We don't expect out-of-order packets, but verify" />
-      <item value="TODO: Set MSS for receiving larger packets from the device" />
-      <item value="mutability" />
-      <item value="Duplicate" />
-      <item value="Reduce public mutability" />
-      <item value="addViewInner() will call child.requestLayout() when setting the new LayoutParams therefore, we call requestLayout() on ourselves before, so that the child's request will be blocked at our level" />
-      <item value="Coroutines Api" />
-      <item value="Android-changed. Removed javadoc comment about special privileges that doesn't make sense on android" />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624786228541" />
+    <option name="lastTrimTime" value="1624693310606" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
