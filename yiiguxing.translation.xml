@@ -5,9 +5,9 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Exposure" />
       <item value="Aperture" />
       <item value=".Exposure" />
-      <item value="Exposure" />
       <item value="SHUTTER" />
       <item value="APERTURE" />
       <item value="Called when the parent CoordinatorLayout is about the lay out the given child view. &lt;p&gt;This method can be used to perform custom or modified layout of a child view in place of the default child layout behavior. The Behavior's implementation can delegate to the standard CoordinatorLayout measurement behavior by calling {@link CoordinatorLayoutonLayoutChild(View, int) parent.onLayoutChild}.&lt;p&gt; &lt;p&gt;If a Behavior implements {@link onDependentViewChanged(CoordinatorLayout, View, View)} to change the position of a view in response to a dependent view changing, it should also implement &lt;code&gt;onLayoutChild&lt;code&gt; in such a way that respects those dependent views. &lt;code&gt;onLayoutChild&lt;code&gt; will always be called for a dependent view &lt;em&gt;after&lt;em&gt; its dependency has been laid out.&lt;p&gt; @param parent the parent CoordinatorLayout @param child child view to lay out @param layoutDirection the resolved layout direction for the CoordinatorLayout, such as {@link ViewCompatLAYOUT_DIRECTION_LTR} or {@link ViewCompatLAYOUT_DIRECTION_RTL}. @return true if the Behavior performed layout of the child view, false to request default layout behavior" />
