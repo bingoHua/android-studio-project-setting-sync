@@ -45,6 +45,7 @@
         <entry key="..\:/akiko_3/project/share/src/main/res/drawable/switch_setting_track_off_disable.xml" value="0.278125" />
         <entry key="..\:/akiko_3/project/share/src/main/res/drawable/tab_share_background.xml" value="0.3333333333333333" />
         <entry key="..\:/akiko_3/project/share/src/main/res/drawable/tab_share_selector_background.xml" value="0.34205128205128205" />
+        <entry key="..\:/akiko_3/project/share/src/main/res/drawable/tab_share_unseletced_background.xml" value="0.275" />
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/activity_share_export.xml" value="0.25" />
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/activity_test.xml" value="0.1" />
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/export_config_item.xml" value="0.2630208333333333" />
@@ -57,6 +58,7 @@
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/share_ad_web_view_layout.xml" value="0.16032608695652173" />
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/share_bottom_comment_layout.xml" value="0.21557971014492755" />
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/share_bottom_sheet.xml" value="0.20471014492753623" />
+        <entry key="..\:/akiko_3/project/share/src/main/res/layout/share_exit_dialog.xml" value="0.12639311043566362" />
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/share_platform.xml" value="0.2947916666666667" />
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/share_selectable_bar.xml" value="0.25" />
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/share_switch.xml" value="0.22" />
