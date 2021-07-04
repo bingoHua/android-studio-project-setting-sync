@@ -5,15 +5,12 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
-      <item value="Queue" />
-      <item value="Deque" />
-      <item value="@param evict if false, the table is in creation mode." />
-      <item value="objects" />
-      <item value="Dummy value to associate with an Object in the backing Map" />
-      <item value="exclusive" />
-      <item value="Caller is responsible for calling requestLayout if necessary. (This allows addViewInLayout to not request a new layout.)" />
-      <item value="This is the caption view for the window, containing the caption and window control buttons. The visibility of this decor depends on the workspace and the window type. If the window type does not require such a view, this member might be null." />
-      <item value="m Decor Caption View" />
+      <item value="Translucent" />
+      <item value="Exposure" />
+      <item value="Aperture" />
+      <item value=".Exposure" />
+      <item value="SHUTTER" />
+      <item value="APERTURE" />
       <item value="Called when the parent CoordinatorLayout is about the lay out the given child view. &lt;p&gt;This method can be used to perform custom or modified layout of a child view in place of the default child layout behavior. The Behavior's implementation can delegate to the standard CoordinatorLayout measurement behavior by calling {@link CoordinatorLayoutonLayoutChild(View, int) parent.onLayoutChild}.&lt;p&gt; &lt;p&gt;If a Behavior implements {@link onDependentViewChanged(CoordinatorLayout, View, View)} to change the position of a view in response to a dependent view changing, it should also implement &lt;code&gt;onLayoutChild&lt;code&gt; in such a way that respects those dependent views. &lt;code&gt;onLayoutChild&lt;code&gt; will always be called for a dependent view &lt;em&gt;after&lt;em&gt; its dependency has been laid out.&lt;p&gt; @param parent the parent CoordinatorLayout @param child child view to lay out @param layoutDirection the resolved layout direction for the CoordinatorLayout, such as {@link ViewCompatLAYOUT_DIRECTION_LTR} or {@link ViewCompatLAYOUT_DIRECTION_RTL}. @return true if the Behavior performed layout of the child view, false to request default layout behavior" />
       <item value="A fake drag is in progress already, ignore this real one but still eat the touch events. (It is likely that the user is multi-touching the screen.)" />
       <item value="Out-projected type'BaseItem&lt;*&gt;' prohibits the use of'public abstract fun areContentSame(baseItem: BaseItem&lt;T&gt;): Boolean defined in com.arashivision.insta360.share.ui.akiko.configBottomSheet.itemWidgets.BaseItem'" />
@@ -55,6 +52,9 @@
       <item value="optimize" />
       <item value="Note, for testing and architecture purposes, it's bad practice to construct the repository here. We'll show you how to fix this during the codelab" />
       <item value="Note, for testing and architecture purposes, it's bad practice to construct the repository" />
+      <item value="Note that Mockito's inline mock maker is not supported on Android." />
+      <item value="Stub" />
+      <item value="Matches any object, excluding nulls." />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625149786051" />
+    <option name="lastTrimTime" value="1625127295314" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
