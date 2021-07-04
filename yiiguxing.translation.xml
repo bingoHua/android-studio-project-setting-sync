@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Indicates that the input type for the gesture is from a user touching the screen." />
+      <item value="Indicates" />
       <item value="Nested" />
       <item value="Vertically" />
       <item value="Translucent" />
@@ -53,8 +55,6 @@
       <item value="Simple factory, which calls empty constructor on the give class." />
       <item value="optimize" />
       <item value="Note, for testing and architecture purposes, it's bad practice to construct the repository here. We'll show you how to fix this during the codelab" />
-      <item value="Note, for testing and architecture purposes, it's bad practice to construct the repository" />
-      <item value="Note that Mockito's inline mock maker is not supported on Android." />
     </histories>
     <option name="languageScores">
       <map>
