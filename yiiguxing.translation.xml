@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="objects" />
+      <item value="Dummy value to associate with an Object in the backing Map" />
       <item value="exclusive" />
       <item value="Caller is responsible for calling requestLayout if necessary. (This allows addViewInLayout to not request a new layout.)" />
       <item value="This is the caption view for the window, containing the caption and window control buttons. The visibility of this decor depends on the workspace and the window type. If the window type does not require such a view, this member might be null." />
@@ -53,8 +55,6 @@
       <item value="Note that Mockito's inline mock maker is not supported on Android." />
       <item value="Stub" />
       <item value="Matches any object, excluding nulls." />
-      <item value="Matches any object of given type, excluding nulls." />
-      <item value="check again right away, there may be another packet" />
     </histories>
     <option name="languageScores">
       <map>
