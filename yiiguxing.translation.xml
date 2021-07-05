@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Check that graphics HAL is generating vsync timestamps using the correct timebase" />
       <item value="Horizontally" />
       <item value="Nested" />
       <item value="Indicates that the input type for the gesture is from a user touching the screen." />
@@ -54,7 +55,6 @@
       <item value="e Poll" />
       <item value="using an in-memory database for testing, since it doesn't survive killing the process" />
       <item value="Simple factory, which calls empty constructor on the give class." />
-      <item value="optimize" />
     </histories>
     <option name="languageScores">
       <map>
