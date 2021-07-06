@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="addViewInner() will call child.requestLayout() when setting the new LayoutParams therefore, we call requestLayout() on ourselves before, so that the child's request will be blocked at our level" />
       <item value="&lt;!-- Sets the color of the ambient shadow that is drawn when the view has a positive Z or elevation value. &lt;p&gt; By default the shadow color is black. Generally, this color will be opaque so the intensity of the shadow is consistent between different views with different colors. &lt;p&gt; The opacity of the final ambient shadow is a function of the shadow caster height, the alpha channel of the outlineAmbientShadowColor (typically opaque), and the {@link android.R.attrambientShadowAlpha} theme attribute. --&gt;" />
       <item value="HORIZONTAL" />
       <item value="Translucent" />
@@ -54,7 +55,6 @@
       <item value="optimize" />
       <item value="Note, for testing and architecture purposes, it's bad practice to construct the repository here. We'll show you how to fix this during the codelab" />
       <item value="Note, for testing and architecture purposes, it's bad practice to construct the repository" />
-      <item value="Note that Mockito's inline mock maker is not supported on Android." />
     </histories>
     <option name="languageScores">
       <map>
