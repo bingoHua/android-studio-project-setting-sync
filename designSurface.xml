@@ -66,7 +66,7 @@
         <entry key="app/src/main/res/layout/user_fragment.xml" value="0.10916919959473151" />
         <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.3645833333333333" />
         <entry key="community/src/main/res/layout/fragment_commuinty_player_tab.xml" value="0.1398176291793313" />
-        <entry key="community/src/main/res/layout/fragment_sub_commuinty_play_tab.xml" value="0.1398176291793313" />
+        <entry key="community/src/main/res/layout/fragment_sub_commuinty_play_tab.xml" value="1.0" />
         <entry key="demo/src/main/res/layout/fragment_base.xml" value="0.296195652173913" />
         <entry key="demo/src/main/res/layout/fragment_custom.xml" value="0.12129629629629629" />
         <entry key="demo/src/main/res/layout/fragment_list.xml" value="0.296195652173913" />
