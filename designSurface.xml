@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../layout/custom_preview.xml" value="0.1111111111111111" />
+        <entry key="../../../layout/custom_preview.xml" value="0.1" />
         <entry key="..\:/ColorListDemo/app/src/main/res/drawable/background.xml" value="0.3194444444444444" />
         <entry key="..\:/ColorListDemo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3194444444444444" />
         <entry key="..\:/ColorListDemo/app/src/main/res/drawable/seek_share_indicator_thumb.xml" value="0.3194444444444444" />
@@ -68,11 +68,12 @@
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/share_tab_flat.xml" value="0.2630208333333333" />
         <entry key="..\:/akiko_3/project/share/src/main/res/layout/share_tab_text.xml" value="0.2586050724637681" />
         <entry key="..\:/android-testing/app/src/main/res/layout/tasks_frag.xml" value="0.11930091185410334" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.296195652173913" />
         <entry key="app/src/main/res/layout/fragment_garden.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_multiple_account_mode.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_single_account_mode.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_user.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_layout.xml" value="0.296195652173913" />
         <entry key="app/src/main/res/layout/item_videoview.xml" value="0.22" />
         <entry key="app/src/main/res/layout/list_video_item.xml" value="0.3489583333333333" />
         <entry key="app/src/main/res/layout/list_video_simple_mode2.xml" value="0.3645833333333333" />
