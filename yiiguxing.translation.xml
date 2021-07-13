@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Try first for an exact, non-invalid match from scrap." />
       <item value="0) If there is a changed scrap, try to find from there" />
       <item value="VERTICAL" />
       <item value="HORIZONTAL" />
@@ -54,7 +55,6 @@
       <item value="sensor Portrait" />
       <item value="Portrait" />
       <item value="sensor" />
-      <item value="Appends all elements yielded from results of [transform] function being invoked on each element of original array, to the given [destination]." />
     </histories>
     <option name="languageScores">
       <map>
