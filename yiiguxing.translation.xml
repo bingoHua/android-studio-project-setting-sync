@@ -1,14 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="580" />
-    <option name="newTranslationDialogX" value="676" />
-    <option name="newTranslationDialogY" value="495" />
+    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogX" value="686" />
+    <option name="newTranslationDialogY" value="451" />
     <histories>
-      <item value="Do not concatenate text displayed with setText. Use resource string with placeholders." />
-      <item value="addViewInner() will call child.requestLayout() when setting the new LayoutParams therefore, we call requestLayout() on ourselves before, so that the child's request will be blocked at our level" />
-      <item value="&lt;!-- Sets the color of the ambient shadow that is drawn when the view has a positive Z or elevation value. &lt;p&gt; By default the shadow color is black. Generally, this color will be opaque so the intensity of the shadow is consistent between different views with different colors. &lt;p&gt; The opacity of the final ambient shadow is a function of the shadow caster height, the alpha channel of the outlineAmbientShadowColor (typically opaque), and the {@link android.R.attrambientShadowAlpha} theme attribute. --&gt;" />
-      <item value="HORIZONTAL" />
+      <item value="Check that graphics HAL is generating vsync timestamps using the correct timebase" />
+      <item value="Horizontally" />
+      <item value="Nested" />
+      <item value="Indicates that the input type for the gesture is from a user touching the screen." />
+      <item value="Indicates" />
+      <item value="Vertically" />
       <item value="Translucent" />
       <item value="Exposure" />
       <item value="Aperture" />
@@ -53,8 +55,6 @@
       <item value="e Poll" />
       <item value="using an in-memory database for testing, since it doesn't survive killing the process" />
       <item value="Simple factory, which calls empty constructor on the give class." />
-      <item value="optimize" />
-      <item value="Note, for testing and architecture purposes, it's bad practice to construct the repository here. We'll show you how to fix this during the codelab" />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626057331855" />
+    <option name="lastTrimTime" value="1625581493352" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
