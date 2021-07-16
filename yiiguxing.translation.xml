@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Make sure all children have been properly measured. Decor views first. Right now we cheat and make this less complicated by assuming decor views won't intersect. We will pin to edges based on gravity." />
       <item value="Excess" />
       <item value="For simple implementation, our internal size is always 0. We depend on the container to specify the layout size of our view. We can't really know what it is since we will be adding and removing different arbitrary views and do not want the layout to change as this happens." />
       <item value="Try first for an exact, non-invalid match from scrap." />
@@ -54,7 +55,6 @@
       <item value="PODCASTS" />
       <item value="Throttled" />
       <item value="Incorrect" />
-      <item value="sensor Portrait" />
     </histories>
     <option name="languageScores">
       <map>
