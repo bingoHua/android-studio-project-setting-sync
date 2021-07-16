@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogHeight" value="370" />
+    <option name="newTranslationDialogWidth" value="1033" />
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Out-projected type 'BaseItem&lt;*, *&gt;' prohibits the use of 'public abstract fun onBindViewHolder(holder: RecyclerView.ViewHolder, position: Int, payloads: MutableList&lt;PAYLOAD&gt;): Unit defined in com.arashivision.insta360.share.ui.akiko.configBottomSheet.itemWidgets.BaseItem'" />
       <item value="Try first for an exact, non-invalid match from scrap." />
       <item value="0) If there is a changed scrap, try to find from there" />
       <item value="VERTICAL" />
@@ -54,7 +56,6 @@
       <item value="Incorrect" />
       <item value="sensor Portrait" />
       <item value="Portrait" />
-      <item value="sensor" />
     </histories>
     <option name="languageScores">
       <map>
