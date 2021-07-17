@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="SETTLING" />
+      <item value="The bottom sheet is settling" />
       <item value="Make sure all children have been properly measured. Decor views first. Right now we cheat and make this less complicated by assuming decor views won't intersect. We will pin to edges based on gravity." />
       <item value="Excess" />
       <item value="For simple implementation, our internal size is always 0. We depend on the container to specify the layout size of our view. We can't really know what it is since we will be adding and removing different arbitrary views and do not want the layout to change as this happens." />
@@ -53,8 +55,6 @@
       <item value="If anything needs to be obtained using the network, get it now. This greatly reduces the complexity of seamless handover, which tries to recreate the tunnel without shutting down everything. In this demo, all we need to know is the server address." />
       <item value="Authenticate and configure the virtual network interface." />
       <item value="PODCASTS" />
-      <item value="Throttled" />
-      <item value="Incorrect" />
     </histories>
     <option name="languageScores">
       <map>
