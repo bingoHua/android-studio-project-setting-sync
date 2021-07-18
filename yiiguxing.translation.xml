@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Don't set application object here -- if the system crashes, we can't display an alert, we just want to die die die." />
+      <item value="The system process on low-memory devices do not get to use hardware accelerated drawing, since this can add too much overhead to the process." />
       <item value="SETTLING" />
       <item value="The bottom sheet is settling" />
       <item value="Make sure all children have been properly measured. Decor views first. Right now we cheat and make this less complicated by assuming decor views won't intersect. We will pin to edges based on gravity." />
@@ -53,8 +55,6 @@
       <item value="Protect the tunnel before connecting to avoid loopback." />
       <item value="TODO: The better way is to work with ConnectivityManager, trying only when the network is available. Here we just use a counter to keep things simple." />
       <item value="If anything needs to be obtained using the network, get it now. This greatly reduces the complexity of seamless handover, which tries to recreate the tunnel without shutting down everything. In this demo, all we need to know is the server address." />
-      <item value="Authenticate and configure the virtual network interface." />
-      <item value="PODCASTS" />
     </histories>
     <option name="languageScores">
       <map>
