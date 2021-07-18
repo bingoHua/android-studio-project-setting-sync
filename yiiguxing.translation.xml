@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Hierarchy" />
+      <item value="requestLayout() was called during layout. If no layout-request flags are set on the requesting views, there is no problem. If some requests are still pending, then we need to clear those flags and do a full requestmeasurelayout pass to handle this situation." />
+      <item value="Process fresh layout requests, then measure and layout" />
+      <item value="Clear this now, so that if anything requests a layout in the rest of this function we will catch it and re-run a full layout pass." />
       <item value="Choreographer" />
       <item value="do this last because it fires off messages to start doing things" />
       <item value="Don't set application object here -- if the system crashes, we can't display an alert, we just want to die die die." />
@@ -51,10 +55,6 @@
       <item value="WARNING: An illegal reflective access operation has occurred" />
       <item value="Nothing, but ends quoting started by \Q" />
       <item value="Guaranteed to modify the current object by the isAutoCloneEnabledCheck" />
-      <item value="payload" />
-      <item value="Duplicate" />
-      <item value="Remaining" />
-      <item value="Protect the tunnel before connecting to avoid loopback." />
     </histories>
     <option name="languageScores">
       <map>
