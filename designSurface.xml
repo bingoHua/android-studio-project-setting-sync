@@ -73,6 +73,7 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.296195652173913" />
         <entry key="app/src/main/res/layout/activity_test_main.xml" value="0.18489583333333334" />
         <entry key="app/src/main/res/layout/fragment_garden.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_jetpack_third.xml" value="0.18854166666666666" />
         <entry key="app/src/main/res/layout/fragment_multiple_account_mode.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_single_account_mode.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_user.xml" value="0.1" />
