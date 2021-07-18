@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="do this last because it fires off messages to start doing things" />
       <item value="Don't set application object here -- if the system crashes, we can't display an alert, we just want to die die die." />
       <item value="The system process on low-memory devices do not get to use hardware accelerated drawing, since this can add too much overhead to the process." />
       <item value="SETTLING" />
@@ -54,7 +55,6 @@
       <item value="Remaining" />
       <item value="Protect the tunnel before connecting to avoid loopback." />
       <item value="TODO: The better way is to work with ConnectivityManager, trying only when the network is available. Here we just use a counter to keep things simple." />
-      <item value="If anything needs to be obtained using the network, get it now. This greatly reduces the complexity of seamless handover, which tries to recreate the tunnel without shutting down everything. In this demo, all we need to know is the server address." />
     </histories>
     <option name="languageScores">
       <map>
