@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Slide" />
       <item value="Execute enqueued actions on every traversal in case a detached view enqueued an action" />
       <item value="Hierarchy" />
       <item value="requestLayout() was called during layout. If no layout-request flags are set on the requesting views, there is no problem. If some requests are still pending, then we need to clear those flags and do a full requestmeasurelayout pass to handle this situation." />
@@ -54,7 +55,6 @@
       <item value="Concurrent" />
       <item value="explode" />
       <item value="WARNING: An illegal reflective access operation has occurred" />
-      <item value="Nothing, but ends quoting started by \Q" />
     </histories>
     <option name="languageScores">
       <map>
