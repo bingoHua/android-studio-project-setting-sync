@@ -6,6 +6,10 @@
           <option name="url" value="http://code.aliyun.com" />
           <option name="userName" value="414983570@qq.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.insta360.com" />
+          <option name="userName" value="lizehua@insta360.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
