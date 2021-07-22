@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="validate" />
+      <item value="recycle holder (and unscrap if relevant) since it can't be used" />
       <item value="Slide" />
       <item value="Execute enqueued actions on every traversal in case a detached view enqueued an action" />
       <item value="Hierarchy" />
@@ -53,8 +55,6 @@
       <item value="&lt;!-- Makes the TextView be exactly this many lines tall. --&gt;" />
       <item value="TODO(b76413401): make class final after the widget migration is finished" />
       <item value="Concurrent" />
-      <item value="explode" />
-      <item value="WARNING: An illegal reflective access operation has occurred" />
     </histories>
     <option name="languageScores">
       <map>
