@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Clears internal storage and notifies ViewModels that they are no longer used." />
       <item value="同步" />
       <item value="asynchronous" />
       <item value="Whether to use unbounded ripple effect for tabs, or if ripple should instead be bound to tab item bounds. --&gt; &lt;" />
@@ -54,7 +55,6 @@
       <item value="Duplicate" />
       <item value="Remaining" />
       <item value="Protect the tunnel before connecting to avoid loopback." />
-      <item value="TODO: The better way is to work with ConnectivityManager, trying only when the network is available. Here we just use a counter to keep things simple." />
     </histories>
     <option name="languageScores">
       <map>
