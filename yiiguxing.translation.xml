@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="new Single Thread Executor" />
       <item value="allow Core Thread Time Out" />
       <item value="Submits a Runnable task for execution and returns a Future representing that task. The Future's {@code get} method will return {@code null} upon &lt;em&gt;successful&lt;em&gt; completion." />
       <item value="Proceed in 3 steps: 1. If fewer than corePoolSize threads are running, try to start a new thread with the given command as its first task. The call to addWorker atomically checks runState and workerCount, and so prevents false alarms that would add threads when it shouldn't, by returning false. 2. If a task can be successfully queued, then we still need to double-check whether we should have added a thread (because existing ones died since last checking) or that the pool shut down since entry into this method. So we recheck state and if necessary roll back the enqueuing if stopped, or start a new thread if there are none. 3. If we cannot queue task, then we try to add a new thread. If it fails, we know we are shut down or saturated and so reject the task." />
@@ -54,7 +55,6 @@
       <item value="&lt;!-- Makes the TextView be exactly this many lines tall. --&gt;" />
       <item value="TODO(b76413401): make class final after the widget migration is finished" />
       <item value="Concurrent" />
-      <item value="explode" />
     </histories>
     <option name="languageScores">
       <map>
